@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Hồ%20Sỹ%20Huy%20Anh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=huyanhdeptrai&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Xin+chào%2C+mình+là+Huy+Anh+👋;Sinh+viên+yêu+code+C%2B%2B+%26+TypeScript;Thích+làm+web%2C+game+và+công+cụ+hay+ho+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Xin%20ch%C3%A0o%2C%20m%C3%ACnh%20l%C3%A0%20Huy%20Anh%20%F0%9F%91%8B;Sinh%20vi%C3%AAn%20y%C3%AAu%20code%20C%2B%2B%20%26%20TypeScript;Th%C3%ADch%20l%C3%A0m%20web%2C%20game%20v%C3%A0%20c%C3%B4ng%20c%E1%BB%A5%20hay%20ho%20%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -23,23 +23,27 @@
 
 ## 📌 Dự án nổi bật
 
-<div align="center">
-
-<a href="https://github.com/huyanhdeptrai/Netflop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=huyanhdeptrai&repo=Netflop&theme=tokyonight&hide_border=true" alt="Netflop" /></a>
-<a href="https://github.com/huyanhdeptrai/V-Booth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=huyanhdeptrai&repo=V-Booth&theme=tokyonight&hide_border=true" alt="V-Booth" /></a>
-<a href="https://github.com/huyanhdeptrai/nuphuocthinh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=huyanhdeptrai&repo=nuphuocthinh&theme=tokyonight&hide_border=true" alt="nuphuocthinh" /></a>
-<a href="https://github.com/huyanhdeptrai/cinema-booking-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=huyanhdeptrai&repo=cinema-booking-api&theme=tokyonight&hide_border=true" alt="cinema-booking-api" /></a>
-
-</div>
+| Dự án | Mô tả | Công nghệ |
+| --- | --- | --- |
+| [**Netflop**](https://github.com/huyanhdeptrai/Netflop) | Trang web xem phim miễn phí | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**V-Booth**](https://github.com/huyanhdeptrai/V-Booth) | Tiệm photobooth Việt phục ảo | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**nuphuocthinh**](https://github.com/huyanhdeptrai/nuphuocthinh) | Công cụ nhận dạng, dịch phụ đề, thuyết minh và chỉnh sửa video | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**cinema-booking-api**](https://github.com/huyanhdeptrai/cinema-booking-api) | API đặt vé xem phim | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**Tanks-Battleground**](https://github.com/huyanhdeptrai/Tanks-Battleground) | Game bắn xe tăng | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 
 ## 📊 Thống kê GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=huyanhdeptrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyanhdeptrai&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-
 <img src="https://streak-stats.demolab.com/?user=huyanhdeptrai&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+## 🎧 Đang nghe gì?
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-Album%20m%C3%ACnh%20hay%20nghe-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-vi/album/76vqUpGq3heDny0gxhXIXv)
 
 </div>
 
