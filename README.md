@@ -6,13 +6,12 @@
 
 </div>
 
-## 👨‍💻 Về mình
+## 🛠️ Về mình
 
-- 🐛 Chuyên viết bug, tiện thể sửa bug
-- ☕ Chạy bằng cà phê, deadline và một chút hy vọng
-- 🔍 Google là giảng viên chính, Stack Overflow là trợ giảng
-- 🚀 Code xong chạy được trên máy mình thì coi như hoàn thành
-- 🤔 Hỏi về `git push --force` thì mình xin phép không trả lời
+- Thích mày mò từ giao diện web cho tới logic phía backend.
+- Ngôn ngữ hay dùng: Java, TypeScript, C++.
+- Mục tiêu mỗi ngày: hiểu sâu thêm một chút về luồng dữ liệu, viết code gọn hơn hôm qua.
+- Đang học thêm: Tối ưu hệ thống, containerization và cách build sản phẩm có người dùng thật.
 
 ## 🛠️ Tech stack
 
@@ -27,18 +26,6 @@
 <div align="center">
 
 [![Spotify](https://img.shields.io/badge/Spotify-Album%20m%C3%ACnh%20hay%20nghe-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-vi/album/76vqUpGq3heDny0gxhXIXv)
-
-</div>
-
-## 🐍 Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huyanhdeptrai/huyanhdeptrai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huyanhdeptrai/huyanhdeptrai/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/huyanhdeptrai/huyanhdeptrai/output/github-snake.svg" />
-</picture>
 
 </div>
 
